@@ -31,7 +31,6 @@ module.exports = {
             deck.items[index].quantity += +quantity
         }
         res.status(200).send(deck)
-
     },
     changeQuantity : (req, res) => {},
     removeFromDeck : (req, res) => {},
