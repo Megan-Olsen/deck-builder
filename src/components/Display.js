@@ -18,4 +18,4 @@ class Display extends Component {
 
 
 }
-export default Display
+export default Display// 
