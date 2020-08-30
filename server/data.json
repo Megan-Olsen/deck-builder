@@ -1,1 +1,1880 @@
-[{"name":"Animate Dead","manaCost":"{1}{B}","cmc":2.0,"colors":["Black"],"colorIdentity":["B"],"type":"Enchantment — Aura","supertypes":[],"types":["Enchantment"],"subtypes":["Aura"],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.","artist":"Anthony Jones","number":"16","layout":"normal","multiverseid":265167,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265167&type=card","rulings":[{"date":"2016-06-08","text":"Animate Dead is an Aura, albeit with an unusual enchant ability. You target a creature card in a graveyard when you cast it. It enters the battlefield attached to that card. Then it returns that card to the battlefield, and attaches itself to the card again (since the card is a new object on the battlefield). Animate Dead itself never moves into a graveyard during this process."},{"date":"2016-06-08","text":"If Animate Dead isn’t on the battlefield as its triggered ability resolves, none of its effects happen. The creature card won’t be returned to the battlefield."},{"date":"2016-06-08","text":"Abilities such as shroud and protection function only on the battlefield unless otherwise specified. A creature card with shroud may be targeted by Animate Dead, and Animate Dead will become attached to the creature that enters the battlefield."},{"date":"2016-06-08","text":"If the creature put onto the battlefield has protection from black—or if the creature can’t legally be enchanted by Animate Dead for another reason—Animate Dead won’t be able to attach to it. It will be put into the graveyard as a state-based action, causing its delayed triggered ability to trigger. When the trigger resolves, if the creature’s still on the battlefield, its controller will sacrifice it."},{"date":"2016-06-08","text":"Once the creature is returned to the battlefield, Animate Dead can’t be attached to anything other than it (unless Animate Dead somehow manages to put a different creature onto the battlefield). Attempting to move Animate Dead to another creature won’t work."}],"foreignNames":[],"printings":["2ED","3ED","4BB","4ED","5ED","CED","CEI","EMA","FBB","LEA","LEB","MB1","ME1","PD3","SUM","TD0","VMA"],"originalText":"Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.","originalType":"Enchantment — Aura","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"09590f46-1017-5c0d-8d80-8c59063afdad"},{"name":"Avatar of Woe","manaCost":"{6}{B}{B}","cmc":8.0,"colors":["Black"],"colorIdentity":["B"],"type":"Creature — Avatar","supertypes":[],"types":["Creature"],"subtypes":["Avatar"],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.","artist":"rk post","number":"6","power":"6","toughness":"5","layout":"normal","multiverseid":270448,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270448&type=card","rulings":[{"date":"2004-10-04","text":"The converted mana cost of this card is still 8, even if you only pay {B}{B} to cast it."}],"foreignNames":[],"printings":["ARC","CM2","CMD","CN2","MP2","PCY","PD3","PPRO","PRM","TD0","TSB"],"originalText":"If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.","originalType":"Creature — Avatar","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"28f83c70-768f-5cb3-8538-fb014a5a1cff"},{"name":"Blazing Archon","manaCost":"{6}{W}{W}{W}","cmc":9.0,"colors":["White"],"colorIdentity":["W"],"type":"Creature — Archon","supertypes":[],"types":["Creature"],"subtypes":["Archon"],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Flying\nCreatures can't attack you.","flavor":"\"Through the haze of battle I saw the glint of sun on golden mane, the sheen of glory clad in mail, and I dropped my sword and wept at the idiocy of war.\"\n—Dravin, Gruul deserter","artist":"Zoltan Boros & Gabor Szikszai","number":"11","power":"5","toughness":"6","layout":"normal","multiverseid":270449,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270449&type=card","rulings":[{"date":"2014-02-01","text":"Unless some effect explicitly says otherwise, a creature that can’t attack you can still attack a planeswalker you control."}],"foreignNames":[],"printings":["C16","PD3","RAV"],"originalText":"Flying\nCreatures can't attack you.","originalType":"Creature — Archon","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"d4f95320-9ac0-50ca-a236-11791f8506a8"},{"name":"Buried Alive","manaCost":"{2}{B}","cmc":3.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.","flavor":"The scrape of shovels and the tumble of cold dirt soon muffled their pleas.","artist":"Greg Staples","number":"20","layout":"normal","multiverseid":270455,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270455&type=card","rulings":[{"date":"2004-10-04","text":"You can look in your library and then choose to find any number from zero to three creatures after you look at it."}],"foreignNames":[],"printings":["CM2","CMD","ODY","PD3","TD0","UMA","WC03","WTH"],"originalText":"Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"430224df-425d-57d6-a704-6158060915a3"},{"name":"Cabal Therapy","manaCost":"{B}","cmc":1.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)","artist":"Raymond Swanland","number":"12","layout":"normal","multiverseid":265166,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265166&type=card","rulings":[{"date":"2016-06-08","text":"You name the card as Cabal Therapy resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding."}],"foreignNames":[],"printings":["EMA","F05","JUD","MB1","PD3","PRM","WC03"],"originalText":"Name a nonland card. Target player reveals his or her hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"25f90498-2443-5f83-8dec-e35cf40e6c5a"},{"name":"Crosis, the Purger","manaCost":"{3}{U}{B}{R}","cmc":6.0,"colors":["Black","Red","Blue"],"colorIdentity":["B","R","U"],"type":"Legendary Creature — Dragon","supertypes":["Legendary"],"types":["Creature"],"subtypes":["Dragon"],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Flying\nWhenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals their hand and discards all cards of that color.","artist":"Chris Rahn","number":"5","power":"6","toughness":"6","layout":"normal","multiverseid":270140,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270140&type=card","rulings":[{"date":"2004-10-04","text":"You choose the color during resolution. This means your opponent does not get to react after knowing the color you chose."}],"foreignNames":[],"printings":["C17","INV","PD3"],"originalText":"Flying\nWhenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.","originalType":"Legendary Creature — Dragon","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"a38f76cb-b194-5ee8-bcde-5b5aaa9ec56a"},{"name":"Crystal Vein","cmc":0.0,"colors":[],"colorIdentity":[],"type":"Land","supertypes":[],"types":["Land"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"{T}: Add {C}.\n{T}, Sacrifice Crystal Vein: Add {C}{C}.","artist":"Pat Morrissey","number":"24","layout":"normal","multiverseid":270466,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270466&type=card","rulings":[],"foreignNames":[],"printings":["6ED","C14","CMA","MIR","PD3","WC00"],"originalText":"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.","originalType":"Land","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"6984f37c-1ee2-5640-952c-68798c9014a4"},{"name":"Diabolic Servitude","manaCost":"{3}{B}","cmc":4.0,"colors":["Black"],"colorIdentity":["B"],"type":"Enchantment","supertypes":[],"types":["Enchantment"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.","artist":"Scott M. Fischer","number":"22","layout":"normal","multiverseid":270461,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270461&type=card","rulings":[{"date":"2004-10-04","text":"If the creature is on the battlefield and is returned to its owner’s hand or is exiled, this card loses track of the creature and has no further effects in the future."}],"foreignNames":[],"printings":["C15","CMA","PD3","TD2","USG"],"originalText":"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.","originalType":"Enchantment","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"099266b0-38e6-5689-96df-79306a4833b8"},{"name":"Dread Return","manaCost":"{2}{B}{B}","cmc":4.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Return target creature card from your graveyard to the battlefield.\nFlashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)","flavor":"Those who forget the horrors of the past are doomed to re-meet them.","artist":"Kev Walker","number":"23","layout":"normal","multiverseid":270463,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270463&type=card","rulings":[],"foreignNames":[],"printings":["C14","DDQ","MB1","PD3","PRM","TD0","TSP"],"originalText":"Return target creature card from your graveyard to the battlefield.\nFlashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Banned"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"70d2a2e1-60ca-51ff-b5da-e05fb065c4c9"},{"name":"Duress","manaCost":"{B}","cmc":1.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.","flavor":"\"Don't worry. I'm not going to deprive you of all your secrets. Just your most precious one.\"\n—Liliana Vess","artist":"Steven Belledin","number":"13","layout":"normal","multiverseid":270465,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270465&type=card","rulings":[],"foreignNames":[],"printings":["7ED","DDC","DTK","DVD","EMA","F05","IMA","M10","M11","M13","M14","M19","M20","M21","MB1","MD1","PAL00","PANA","PD3","PI14","PMEI","PRM","USG","WC01","WC02","WC99","XLN"],"originalText":"Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.","originalType":"Sorcery","legalities":[{"format":"Brawl","legality":"Legal"},{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Future","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Pioneer","legality":"Legal"},{"format":"Standard","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"56f22c03-15b4-59b6-b9b8-e90ea20635f5"},{"name":"Ebon Stronghold","cmc":0.0,"colors":[],"colorIdentity":["B"],"type":"Land","supertypes":[],"types":["Land"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B}.","artist":"Liz Danforth","number":"25","layout":"normal","multiverseid":270467,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270467&type=card","rulings":[],"foreignNames":[],"printings":["5ED","6ED","BTD","FEM","ME2","PD3","PTC"],"originalText":"Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.","originalType":"Land","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"0ba8a1c0-587e-5703-a489-eb26cb5f4e65"},{"name":"Entomb","manaCost":"{B}","cmc":1.0,"colors":["Black"],"colorIdentity":["B"],"type":"Instant","supertypes":[],"types":["Instant"],"subtypes":[],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Search your library for a card and put that card into your graveyard. Then shuffle your library.","flavor":"A grave is the safest place to store ill-gotten treasures.","artist":"Ron Spears","number":"14","layout":"normal","multiverseid":270456,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270456&type=card","rulings":[],"foreignNames":[],"printings":["EMA","G11","MP2","ODY","PD3","PRM","UMA","WC03"],"originalText":"Search your library for a card and put that card into your graveyard. Then shuffle your library.","originalType":"Instant","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Banned"},{"format":"Legacy","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"e1aabb7b-9dbc-5b58-ade7-edf2436215a6"},{"name":"Exhume","manaCost":"{1}{B}","cmc":2.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Each player puts a creature card from their graveyard onto the battlefield.","flavor":"\"Death—an outmoded concept. We sleep, and we change.\"\n—Sitrik, birth priest","artist":"Carl Critchlow","number":"17","layout":"normal","multiverseid":270462,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270462&type=card","rulings":[],"foreignNames":[],"printings":["BRB","JMP","PD3","TD2","USG"],"originalText":"Each player puts a creature card from his or her graveyard onto the battlefield.","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"1bb6d17d-9731-5297-aa45-e54281c88f77"},{"name":"Faceless Butcher","manaCost":"{2}{B}{B}","cmc":4.0,"colors":["Black"],"colorIdentity":["B"],"type":"Creature — Nightmare Horror","supertypes":[],"types":["Creature"],"subtypes":["Nightmare","Horror"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.\nWhen Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.","artist":"Daren Bader","number":"3","power":"2","toughness":"3","layout":"normal","multiverseid":270458,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270458&type=card","rulings":[{"date":"2006-09-25","text":"Three Faceless Butchers cast in succession with no other creatures on the battlefield will result in an infinite loop and the game will be a draw, unless a player somehow interrupts the loop."}],"foreignNames":[],"printings":["PD3","TOR","TSB"],"originalText":"When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.\nWhen Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.","originalType":"Creature — Nightmare Horror","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"d594323e-0286-5c9a-8438-eb2a99f4d5cd"},{"name":"Hidden Horror","manaCost":"{1}{B}{B}","cmc":3.0,"colors":["Black"],"colorIdentity":["B"],"type":"Creature — Horror","supertypes":[],"types":["Creature"],"subtypes":["Horror"],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.","flavor":"If the presence of evil were obvious, it wouldn't be nearly as dangerous.","artist":"Brom","number":"2","power":"4","toughness":"4","layout":"normal","multiverseid":270464,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270464&type=card","rulings":[{"date":"2008-04-01","text":"When the ability resolves, you choose whether to sacrifice the creature or perform the other action. If you can’t perform the other action, then you must sacrifice the creature."},{"date":"2008-04-01","text":"If the creature is no longer on the battlefield when the ability resolves, you may still perform the action if you want."}],"foreignNames":[],"printings":["10E","6ED","P02","PD3","PS11","WTH"],"originalText":"When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.","originalType":"Creature — Horror","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"387f7f33-abb0-5868-824c-f8f3faacf4ab"},{"name":"Inkwell Leviathan","manaCost":"{7}{U}{U}","cmc":9.0,"colors":["Blue"],"colorIdentity":["U"],"type":"Artifact Creature — Leviathan","supertypes":[],"types":["Artifact","Creature"],"subtypes":["Leviathan"],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Trample\nIslandwalk (This creature can't be blocked as long as defending player controls an Island.)\nShroud (This creature can't be the target of spells or abilities.)","flavor":"\"Into its maw went the seventh sea, never to be seen again while the world remains.\"\n—Esper fable","artist":"Anthony Francisco","number":"10","power":"7","toughness":"11","layout":"normal","multiverseid":270447,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270447&type=card","rulings":[],"foreignNames":[],"printings":["C18","CON","DDO","EMA","PD3"],"originalText":"Islandwalk, trample, shroud","originalType":"Artifact Creature — Leviathan","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"4de75d8e-f8e1-51da-8c2f-2535a62b2417"},{"name":"Last Rites","manaCost":"{2}{B}","cmc":3.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.","artist":"Bradley Williams","number":"21","layout":"normal","multiverseid":270457,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270457&type=card","rulings":[],"foreignNames":[],"printings":["ODY","PD3","WC03"],"originalText":"Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"79161e13-7b12-5103-bca0-4b697a46ad59"},{"name":"Polluted Mire","cmc":0.0,"colors":[],"colorIdentity":["B"],"type":"Land","supertypes":[],"types":["Land"],"subtypes":[],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)","artist":"Stephen Daniele","number":"26","layout":"normal","multiverseid":270468,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270468&type=card","rulings":[{"date":"2008-10-01","text":"Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."}],"foreignNames":[],"printings":["ATH","BRB","BTD","C14","C15","CMA","DDD","GVL","PD3","USG"],"originalText":"Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)","originalType":"Land","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"8255d23e-4e9a-5206-b7d9-390d128f9687"},{"name":"Putrid Imp","manaCost":"{B}","cmc":1.0,"colors":["Black"],"colorIdentity":["B"],"type":"Creature — Zombie Imp","supertypes":[],"types":["Creature"],"subtypes":["Zombie","Imp"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Discard a card: Putrid Imp gains flying until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.","artist":"Wayne England","number":"1","power":"1","toughness":"1","layout":"normal","multiverseid":270459,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270459&type=card","rulings":[],"foreignNames":[],"printings":["PD3","TOR","VMA"],"originalText":"Discard a card: Putrid Imp gains flying until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.","originalType":"Creature — Zombie Imp","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"9c64f415-3c32-5a36-9b32-62455352d5ec"},{"name":"Reanimate","manaCost":"{B}","cmc":1.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.","flavor":"\"You will learn to earn death.\"\n—Volrath","artist":"Robert Bliss","number":"15","layout":"normal","multiverseid":270452,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270452&type=card","rulings":[{"date":"2018-12-07","text":"If a card in a player’s graveyard has {X} in its mana cost, X is considered to be 0."},{"date":"2018-12-07","text":"The amount of life you lose is determined by the converted mana cost of the card in your graveyard, not the creature once it’s on the battlefield."},{"date":"2018-12-07","text":"You lose life after the creature is already on the battlefield. Any abilities it has that interact with loss of life, such as that of Platinum Emperion, apply to that loss of life."},{"date":"2018-12-07","text":"If any abilities trigger on the creature entering the battlefield, those abilities resolve after you lose life. If losing life results in you losing the game, those abilities won’t resolve."},{"date":"2018-12-07","text":"In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, the creature you control from Reanimate is exiled."}],"foreignNames":[],"printings":["ARC","BRB","F04","JMP","PD3","PRM","PUMA","TMP","TPR","UMA","VMA"],"originalText":"Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"3029432f-dded-5f2d-9756-f30f39d93a3f"},{"name":"Sickening Dreams","manaCost":"{1}{B}","cmc":2.0,"colors":["Black"],"colorIdentity":["B"],"type":"Sorcery","supertypes":[],"types":["Sorcery"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"As an additional cost to cast this spell, discard X cards.\nSickening Dreams deals X damage to each creature and each player.","flavor":"The Patriarch dreams of vile plague.","artist":"Scott M. Fischer","number":"18","layout":"normal","multiverseid":270460,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270460&type=card","rulings":[],"foreignNames":[],"printings":["PD3","TOR","WC03"],"originalText":"As an additional cost to cast Sickening Dreams, discard X cards.\nSickening Dreams deals X damage to each creature and each player.","originalType":"Sorcery","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"eaa7795c-16ae-5faa-abca-eeb4fbf10e49"},{"name":"Sphinx of the Steel Wind","manaCost":"{5}{W}{U}{B}","cmc":8.0,"colors":["Black","Blue","White"],"colorIdentity":["B","U","W"],"type":"Artifact Creature — Sphinx","supertypes":[],"types":["Artifact","Creature"],"subtypes":["Sphinx"],"rarity":"Mythic","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Flying, first strike, vigilance, lifelink, protection from red and from green","flavor":"No one has properly answered her favorite riddle: \"Why should I spare your life?\"","artist":"Kev Walker","number":"9","power":"6","toughness":"6","layout":"normal","multiverseid":270446,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270446&type=card","rulings":[],"foreignNames":[],"printings":["ARB","C13","EMA","PD3"],"originalText":"Flying, first strike, vigilance, lifelink, protection from red and from green","originalType":"Artifact Creature — Sphinx","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"cbcf491f-66f5-57ce-8e27-91a138896755"},{"name":"Swamp","cmc":0.0,"colors":[],"colorIdentity":["B"],"type":"Basic Land — Swamp","supertypes":["Basic"],"types":["Land"],"subtypes":["Swamp"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"({T}: Add {B}.)","artist":"Aleksi Briclot","number":"27","layout":"normal","multiverseid":270475,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270475&type=card","variations":["42e13c6e-47fd-518d-8bef-8d191497de41","068ddeb4-632a-5a75-8542-734243eaa03e","f8cf1cc0-47a0-56b5-96a7-8c060a673962"],"rulings":[],"foreignNames":[],"printings":["10E","2ED","2XM","3ED","4BB","4ED","5ED","6ED","7ED","8ED","9ED","AKH","ALA","ANA","ARC","ATH","AVR","BBD","BFZ","BRB","BTD","C13","C14","C15","C16","C17","C18","C19","CED","CEI","CHK","CM2","CMA","CMD","CST","DDC","DDD","DDE","DDH","DDJ","DDK","DDM","DDN","DDP","DDQ","DDR","DKM","DOM","DPA","DTK","DVD","E01","ELD","FBB","FRF","G17","GK1","GK2","GN2","GNT","GRN","GVL","H09","HOP","HOU","ICE","IKO","INV","ISD","ITP","J14","JMP","KLD","KTK","LEA","LEB","LRW","M10","M11","M12","M13","M14","M15","M19","M20","M21","MBS","MD1","ME1","ME3","MIR","MMQ","MRD","NPH","ODY","ONS","ORI","P02","PAL00","PAL01","PAL03","PAL04","PAL05","PAL06","PAL99","PALP","PANA","PARL","PC2","PCA","PD3","PELP","PF19","PF20","PGPX","PGRU","PHUK","PMPS","PMPS06","PMPS07","PMPS08","PMPS09","PMPS10","PMPS11","POR","PPP1","PRM","PRW2","PRWK","PS11","PSAL","PSS2","PSS3","PTC","PTK","RAV","RIX","RNA","ROE","RQS","RTR","S99","SHM","SLD","SOI","SOM","SUM","TD0","TD2","THB","THS","TMP","TPR","TSP","UGL","UND","UNH","USG","UST","WAR","WC01","WC02","WC03","WC97","WC98","WC99","XLN","ZEN"],"originalText":"B","originalType":"Basic Land — Swamp","legalities":[{"format":"Brawl","legality":"Legal"},{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Future","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Pioneer","legality":"Legal"},{"format":"Standard","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"4f6d4066-be2a-5f1f-aecc-4cac0332c183"},{"name":"Swamp","cmc":0.0,"colors":[],"colorIdentity":["B"],"type":"Basic Land — Swamp","supertypes":["Basic"],"types":["Land"],"subtypes":["Swamp"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"({T}: Add {B}.)","artist":"James Paick","number":"28","layout":"normal","multiverseid":270473,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270473&type=card","variations":["4f6d4066-be2a-5f1f-aecc-4cac0332c183","068ddeb4-632a-5a75-8542-734243eaa03e","f8cf1cc0-47a0-56b5-96a7-8c060a673962"],"rulings":[],"foreignNames":[],"printings":["10E","2ED","2XM","3ED","4BB","4ED","5ED","6ED","7ED","8ED","9ED","AKH","ALA","ANA","ARC","ATH","AVR","BBD","BFZ","BRB","BTD","C13","C14","C15","C16","C17","C18","C19","CED","CEI","CHK","CM2","CMA","CMD","CST","DDC","DDD","DDE","DDH","DDJ","DDK","DDM","DDN","DDP","DDQ","DDR","DKM","DOM","DPA","DTK","DVD","E01","ELD","FBB","FRF","G17","GK1","GK2","GN2","GNT","GRN","GVL","H09","HOP","HOU","ICE","IKO","INV","ISD","ITP","J14","JMP","KLD","KTK","LEA","LEB","LRW","M10","M11","M12","M13","M14","M15","M19","M20","M21","MBS","MD1","ME1","ME3","MIR","MMQ","MRD","NPH","ODY","ONS","ORI","P02","PAL00","PAL01","PAL03","PAL04","PAL05","PAL06","PAL99","PALP","PANA","PARL","PC2","PCA","PD3","PELP","PF19","PF20","PGPX","PGRU","PHUK","PMPS","PMPS06","PMPS07","PMPS08","PMPS09","PMPS10","PMPS11","POR","PPP1","PRM","PRW2","PRWK","PS11","PSAL","PSS2","PSS3","PTC","PTK","RAV","RIX","RNA","ROE","RQS","RTR","S99","SHM","SLD","SOI","SOM","SUM","TD0","TD2","THB","THS","TMP","TPR","TSP","UGL","UND","UNH","USG","UST","WAR","WC01","WC02","WC03","WC97","WC98","WC99","XLN","ZEN"],"originalText":"B","originalType":"Basic Land — Swamp","legalities":[{"format":"Brawl","legality":"Legal"},{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Future","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Pioneer","legality":"Legal"},{"format":"Standard","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"42e13c6e-47fd-518d-8bef-8d191497de41"},{"name":"Swamp","cmc":0.0,"colors":[],"colorIdentity":["B"],"type":"Basic Land — Swamp","supertypes":["Basic"],"types":["Land"],"subtypes":["Swamp"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"({T}: Add {B}.)","artist":"Jung Park","number":"29","layout":"normal","multiverseid":270474,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270474&type=card","variations":["4f6d4066-be2a-5f1f-aecc-4cac0332c183","42e13c6e-47fd-518d-8bef-8d191497de41","f8cf1cc0-47a0-56b5-96a7-8c060a673962"],"rulings":[],"foreignNames":[],"printings":["10E","2ED","2XM","3ED","4BB","4ED","5ED","6ED","7ED","8ED","9ED","AKH","ALA","ANA","ARC","ATH","AVR","BBD","BFZ","BRB","BTD","C13","C14","C15","C16","C17","C18","C19","CED","CEI","CHK","CM2","CMA","CMD","CST","DDC","DDD","DDE","DDH","DDJ","DDK","DDM","DDN","DDP","DDQ","DDR","DKM","DOM","DPA","DTK","DVD","E01","ELD","FBB","FRF","G17","GK1","GK2","GN2","GNT","GRN","GVL","H09","HOP","HOU","ICE","IKO","INV","ISD","ITP","J14","JMP","KLD","KTK","LEA","LEB","LRW","M10","M11","M12","M13","M14","M15","M19","M20","M21","MBS","MD1","ME1","ME3","MIR","MMQ","MRD","NPH","ODY","ONS","ORI","P02","PAL00","PAL01","PAL03","PAL04","PAL05","PAL06","PAL99","PALP","PANA","PARL","PC2","PCA","PD3","PELP","PF19","PF20","PGPX","PGRU","PHUK","PMPS","PMPS06","PMPS07","PMPS08","PMPS09","PMPS10","PMPS11","POR","PPP1","PRM","PRW2","PRWK","PS11","PSAL","PSS2","PSS3","PTC","PTK","RAV","RIX","RNA","ROE","RQS","RTR","S99","SHM","SLD","SOI","SOM","SUM","TD0","TD2","THB","THS","TMP","TPR","TSP","UGL","UND","UNH","USG","UST","WAR","WC01","WC02","WC03","WC97","WC98","WC99","XLN","ZEN"],"originalText":"B","originalType":"Basic Land — Swamp","legalities":[{"format":"Brawl","legality":"Legal"},{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Future","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Pioneer","legality":"Legal"},{"format":"Standard","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"068ddeb4-632a-5a75-8542-734243eaa03e"},{"name":"Swamp","cmc":0.0,"colors":[],"colorIdentity":["B"],"type":"Basic Land — Swamp","supertypes":["Basic"],"types":["Land"],"subtypes":["Swamp"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"({T}: Add {B}.)","artist":"Alan Pollack","number":"30","layout":"normal","multiverseid":270476,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270476&type=card","variations":["4f6d4066-be2a-5f1f-aecc-4cac0332c183","42e13c6e-47fd-518d-8bef-8d191497de41","068ddeb4-632a-5a75-8542-734243eaa03e"],"rulings":[],"foreignNames":[],"printings":["10E","2ED","2XM","3ED","4BB","4ED","5ED","6ED","7ED","8ED","9ED","AKH","ALA","ANA","ARC","ATH","AVR","BBD","BFZ","BRB","BTD","C13","C14","C15","C16","C17","C18","C19","CED","CEI","CHK","CM2","CMA","CMD","CST","DDC","DDD","DDE","DDH","DDJ","DDK","DDM","DDN","DDP","DDQ","DDR","DKM","DOM","DPA","DTK","DVD","E01","ELD","FBB","FRF","G17","GK1","GK2","GN2","GNT","GRN","GVL","H09","HOP","HOU","ICE","IKO","INV","ISD","ITP","J14","JMP","KLD","KTK","LEA","LEB","LRW","M10","M11","M12","M13","M14","M15","M19","M20","M21","MBS","MD1","ME1","ME3","MIR","MMQ","MRD","NPH","ODY","ONS","ORI","P02","PAL00","PAL01","PAL03","PAL04","PAL05","PAL06","PAL99","PALP","PANA","PARL","PC2","PCA","PD3","PELP","PF19","PF20","PGPX","PGRU","PHUK","PMPS","PMPS06","PMPS07","PMPS08","PMPS09","PMPS10","PMPS11","POR","PPP1","PRM","PRW2","PRWK","PS11","PSAL","PSS2","PSS3","PTC","PTK","RAV","RIX","RNA","ROE","RQS","RTR","S99","SHM","SLD","SOI","SOM","SUM","TD0","TD2","THB","THS","TMP","TPR","TSP","UGL","UND","UNH","USG","UST","WAR","WC01","WC02","WC03","WC97","WC98","WC99","XLN","ZEN"],"originalText":"B","originalType":"Basic Land — Swamp","legalities":[{"format":"Brawl","legality":"Legal"},{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Future","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Pioneer","legality":"Legal"},{"format":"Standard","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"f8cf1cc0-47a0-56b5-96a7-8c060a673962"},{"name":"Terastodon","manaCost":"{6}{G}{G}","cmc":8.0,"colors":["Green"],"colorIdentity":["G"],"type":"Creature — Elephant","supertypes":[],"types":["Creature"],"subtypes":["Elephant"],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.","artist":"Lars Grant-West","number":"7","power":"9","toughness":"9","layout":"normal","multiverseid":270451,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270451&type=card","rulings":[{"date":"2010-03-01","text":"The targeted permanents may be controlled by different players."},{"date":"2013-07-01","text":"If a targeted permanent has indestructible or regenerates, its controller won’t get an Elephant token for it. Similarly, if the targeted permanent is destroyed but a replacement effect moves it to a different zone instead of its owner’s graveyard, its controller won’t get an Elephant token for it."}],"foreignNames":[],"printings":["2XM","C14","C15","CMA","CNS","PD3","PRES","WWK"],"originalText":"When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.","originalType":"Creature — Elephant","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"f13cb5fe-ad93-596a-8ded-8f501517dc2d"},{"name":"Twisted Abomination","manaCost":"{5}{B}","cmc":6.0,"colors":["Black"],"colorIdentity":["B"],"type":"Creature — Zombie Mutant","supertypes":[],"types":["Creature"],"subtypes":["Zombie","Mutant"],"rarity":"Common","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)","artist":"Daren Bader","number":"4","power":"5","toughness":"3","layout":"normal","multiverseid":270453,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270453&type=card","rulings":[{"date":"2016-06-08","text":"Unlike the normal cycling ability, Swampcycling doesn’t allow you to draw a card. Instead, it lets you search your library for a Swamp card. After you find a Swamp card in your library, you reveal it, put it into your hand, then shuffle your library."},{"date":"2016-06-08","text":"Swampcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Swampcycling this card. Any ability that stops a cycling ability from being activated also stops Swampcycling from being activated."},{"date":"2016-06-08","text":"Swampcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Swampcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."},{"date":"2016-06-08","text":"You can choose to find any card with the Swamp land type, including nonbasic lands. You can also choose not to find a card, even if there is a Swamp card in your library."}],"foreignNames":[],"printings":["A25","ARC","CNS","DDD","EMA","GVL","PD3","SCG","TD0","TSB"],"originalText":"{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)","originalType":"Creature — Zombie Mutant","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Pauper","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"e3c9b3c5-2d56-5c03-a991-393776de8f4c"},{"name":"Verdant Force","manaCost":"{5}{G}{G}{G}","cmc":8.0,"colors":["Green"],"colorIdentity":["G"],"type":"Creature — Elemental","supertypes":[],"types":["Creature"],"subtypes":["Elemental"],"rarity":"Rare","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"At the beginning of each upkeep, create a 1/1 green Saproling creature token.","flavor":"Left to itself, nature overflows any container, overthrows any restriction, and overreaches any boundary.","artist":"DiTerlizzi","number":"8","power":"7","toughness":"7","layout":"normal","multiverseid":270450,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270450&type=card","rulings":[{"date":"2006-05-01","text":"In Two-Headed Giant, triggers only once per upkeep, not once for each player."},{"date":"2018-04-27","text":"Verdant Force’s ability triggers at the beginning of each upkeep, not just each of your upkeeps."}],"foreignNames":[],"printings":["10E","9ED","C15","CMA","DOM","DPA","HOP","PD3","PDOM","PS11","TMP","TPR","WC98"],"originalText":"At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.","originalType":"Creature — Elemental","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Pioneer","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"e7af9907-9021-512f-a8f4-96c40230be31"},{"name":"Zombie Infestation","manaCost":"{1}{B}","cmc":2.0,"colors":["Black"],"colorIdentity":["B"],"type":"Enchantment","supertypes":[],"types":["Enchantment"],"subtypes":[],"rarity":"Uncommon","set":"PD3","setName":"Premium Deck Series: Graveborn","text":"Discard two cards: Create a 2/2 black Zombie creature token.","flavor":"The nomads' funeral pyres are more practical than ceremonial.","artist":"Thomas M. Baxa","number":"19","layout":"normal","multiverseid":270454,"imageUrl":"http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270454&type=card","rulings":[],"foreignNames":[],"printings":["ARC","C19","JMP","M12","ODY","PD3"],"originalText":"Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.","originalType":"Enchantment","legalities":[{"format":"Commander","legality":"Legal"},{"format":"Duel","legality":"Legal"},{"format":"Historic","legality":"Legal"},{"format":"Legacy","legality":"Legal"},{"format":"Modern","legality":"Legal"},{"format":"Penny","legality":"Legal"},{"format":"Vintage","legality":"Legal"}],"id":"7232ba46-3ced-53b0-b155-aa2fed3df18c"}]
+[
+    {
+        "name": "Animate Dead",
+        "manaCost": "{1}{B}",
+        "cmc": 2,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Enchantment — Aura",
+        "supertypes": [],
+        "types": [
+            "Enchantment"
+        ],
+        "subtypes": [
+            "Aura"
+        ],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+        "artist": "Anthony Jones",
+        "number": "16",
+        "layout": "normal",
+        "multiverseid": 265167,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265167&type=card",
+        "rulings": [
+            {
+                "date": "2016-06-08",
+                "text": "Animate Dead is an Aura, albeit with an unusual enchant ability. You target a creature card in a graveyard when you cast it. It enters the battlefield attached to that card. Then it returns that card to the battlefield, and attaches itself to the card again (since the card is a new object on the battlefield). Animate Dead itself never moves into a graveyard during this process."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "If Animate Dead isn’t on the battlefield as its triggered ability resolves, none of its effects happen. The creature card won’t be returned to the battlefield."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "Abilities such as shroud and protection function only on the battlefield unless otherwise specified. A creature card with shroud may be targeted by Animate Dead, and Animate Dead will become attached to the creature that enters the battlefield."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "If the creature put onto the battlefield has protection from black—or if the creature can’t legally be enchanted by Animate Dead for another reason—Animate Dead won’t be able to attach to it. It will be put into the graveyard as a state-based action, causing its delayed triggered ability to trigger. When the trigger resolves, if the creature’s still on the battlefield, its controller will sacrifice it."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "Once the creature is returned to the battlefield, Animate Dead can’t be attached to anything other than it (unless Animate Dead somehow manages to put a different creature onto the battlefield). Attempting to move Animate Dead to another creature won’t work."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "2ED",
+            "3ED",
+            "4BB",
+            "4ED",
+            "5ED",
+            "CED",
+            "CEI",
+            "EMA",
+            "FBB",
+            "LEA",
+            "LEB",
+            "MB1",
+            "ME1",
+            "PD3",
+            "SUM",
+            "TD0",
+            "VMA"
+        ],
+        "originalText": "Enchant creature card in a graveyard\nWhen Animate Dead enters the battlefield, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+        "originalType": "Enchantment — Aura",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "name": "Avatar of Woe",
+        "manaCost": "{6}{B}{B}",
+        "cmc": 8,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Creature — Avatar",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Avatar"
+        ],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.",
+        "artist": "rk post",
+        "number": "6",
+        "power": "6",
+        "toughness": "5",
+        "layout": "normal",
+        "multiverseid": 270448,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270448&type=card",
+        "rulings": [
+            {
+                "date": "2004-10-04",
+                "text": "The converted mana cost of this card is still 8, even if you only pay {B}{B} to cast it."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "ARC",
+            "CM2",
+            "CMD",
+            "CN2",
+            "MP2",
+            "PCY",
+            "PD3",
+            "PPRO",
+            "PRM",
+            "TD0",
+            "TSB"
+        ],
+        "originalText": "If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.",
+        "originalType": "Creature — Avatar",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "name": "Blazing Archon",
+        "manaCost": "{6}{W}{W}{W}",
+        "cmc": 9,
+        "colors": [
+            "White"
+        ],
+        "colorIdentity": [
+            "W"
+        ],
+        "type": "Creature — Archon",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Archon"
+        ],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Flying\nCreatures can't attack you.",
+        "flavor": "\"Through the haze of battle I saw the glint of sun on golden mane, the sheen of glory clad in mail, and I dropped my sword and wept at the idiocy of war.\"\n—Dravin, Gruul deserter",
+        "artist": "Zoltan Boros & Gabor Szikszai",
+        "number": "11",
+        "power": "5",
+        "toughness": "6",
+        "layout": "normal",
+        "multiverseid": 270449,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270449&type=card",
+        "rulings": [
+            {
+                "date": "2014-02-01",
+                "text": "Unless some effect explicitly says otherwise, a creature that can’t attack you can still attack a planeswalker you control."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "C16",
+            "PD3",
+            "RAV"
+        ],
+        "originalText": "Flying\nCreatures can't attack you.",
+        "originalType": "Creature — Archon",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "name": "Buried Alive",
+        "manaCost": "{2}{B}",
+        "cmc": 3,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.",
+        "flavor": "The scrape of shovels and the tumble of cold dirt soon muffled their pleas.",
+        "artist": "Greg Staples",
+        "number": "20",
+        "layout": "normal",
+        "multiverseid": 270455,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270455&type=card",
+        "rulings": [
+            {
+                "date": "2004-10-04",
+                "text": "You can look in your library and then choose to find any number from zero to three creatures after you look at it."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "CM2",
+            "CMD",
+            "ODY",
+            "PD3",
+            "TD0",
+            "UMA",
+            "WC03",
+            "WTH"
+        ],
+        "originalText": "Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 4
+    },
+    {
+        "name": "Cabal Therapy",
+        "manaCost": "{B}",
+        "cmc": 1,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Choose a nonland card name. Target player reveals their hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "artist": "Raymond Swanland",
+        "number": "12",
+        "layout": "normal",
+        "multiverseid": 265166,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265166&type=card",
+        "rulings": [
+            {
+                "date": "2016-06-08",
+                "text": "You name the card as Cabal Therapy resolves, not as you cast it. Then the targeted player reveals their hand and discards if appropriate. No player may choose to take actions between you naming the card and the targeted player revealing and discarding."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "EMA",
+            "F05",
+            "JUD",
+            "MB1",
+            "PD3",
+            "PRM",
+            "WC03"
+        ],
+        "originalText": "Name a nonland card. Target player reveals his or her hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "name": "Crosis, the Purger",
+        "manaCost": "{3}{U}{B}{R}",
+        "cmc": 6,
+        "colors": [
+            "Black",
+            "Red",
+            "Blue"
+        ],
+        "colorIdentity": [
+            "B",
+            "R",
+            "U"
+        ],
+        "type": "Legendary Creature — Dragon",
+        "supertypes": [
+            "Legendary"
+        ],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Dragon"
+        ],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Flying\nWhenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals their hand and discards all cards of that color.",
+        "artist": "Chris Rahn",
+        "number": "5",
+        "power": "6",
+        "toughness": "6",
+        "layout": "normal",
+        "multiverseid": 270140,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270140&type=card",
+        "rulings": [
+            {
+                "date": "2004-10-04",
+                "text": "You choose the color during resolution. This means your opponent does not get to react after knowing the color you chose."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "C17",
+            "INV",
+            "PD3"
+        ],
+        "originalText": "Flying\nWhenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.",
+        "originalType": "Legendary Creature — Dragon",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 6
+    },
+    {
+        "name": "Crystal Vein",
+        "cmc": 0,
+        "colors": [],
+        "colorIdentity": [],
+        "type": "Land",
+        "supertypes": [],
+        "types": [
+            "Land"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "{T}: Add {C}.\n{T}, Sacrifice Crystal Vein: Add {C}{C}.",
+        "artist": "Pat Morrissey",
+        "number": "24",
+        "layout": "normal",
+        "multiverseid": 270466,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270466&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "6ED",
+            "C14",
+            "CMA",
+            "MIR",
+            "PD3",
+            "WC00"
+        ],
+        "originalText": "{T}: Add {1} to your mana pool.\n{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.",
+        "originalType": "Land",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 7
+    },
+    {
+        "name": "Diabolic Servitude",
+        "manaCost": "{3}{B}",
+        "cmc": 4,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "supertypes": [],
+        "types": [
+            "Enchantment"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.",
+        "artist": "Scott M. Fischer",
+        "number": "22",
+        "layout": "normal",
+        "multiverseid": 270461,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270461&type=card",
+        "rulings": [
+            {
+                "date": "2004-10-04",
+                "text": "If the creature is on the battlefield and is returned to its owner’s hand or is exiled, this card loses track of the creature and has no further effects in the future."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "C15",
+            "CMA",
+            "PD3",
+            "TD2",
+            "USG"
+        ],
+        "originalText": "When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.\nWhen Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.",
+        "originalType": "Enchantment",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 8
+    },
+    {
+        "name": "Dread Return",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Return target creature card from your graveyard to the battlefield.\nFlashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "flavor": "Those who forget the horrors of the past are doomed to re-meet them.",
+        "artist": "Kev Walker",
+        "number": "23",
+        "layout": "normal",
+        "multiverseid": 270463,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270463&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "C14",
+            "DDQ",
+            "MB1",
+            "PD3",
+            "PRM",
+            "TD0",
+            "TSP"
+        ],
+        "originalText": "Return target creature card from your graveyard to the battlefield.\nFlashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Banned"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 9
+    },
+    {
+        "name": "Duress",
+        "manaCost": "{B}",
+        "cmc": 1,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+        "flavor": "\"Don't worry. I'm not going to deprive you of all your secrets. Just your most precious one.\"\n—Liliana Vess",
+        "artist": "Steven Belledin",
+        "number": "13",
+        "layout": "normal",
+        "multiverseid": 270465,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270465&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "7ED",
+            "DDC",
+            "DTK",
+            "DVD",
+            "EMA",
+            "F05",
+            "IMA",
+            "M10",
+            "M11",
+            "M13",
+            "M14",
+            "M19",
+            "M20",
+            "M21",
+            "MB1",
+            "MD1",
+            "PAL00",
+            "PANA",
+            "PD3",
+            "PI14",
+            "PMEI",
+            "PRM",
+            "USG",
+            "WC01",
+            "WC02",
+            "WC99",
+            "XLN"
+        ],
+        "originalText": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Brawl",
+                "legality": "Legal"
+            },
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Future",
+                "legality": "Legal"
+            },
+            {
+                "format": "Historic",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pioneer",
+                "legality": "Legal"
+            },
+            {
+                "format": "Standard",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 10
+    },
+    {
+        "name": "Ebon Stronghold",
+        "cmc": 0,
+        "colors": [],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Land",
+        "supertypes": [],
+        "types": [
+            "Land"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B}.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B}.",
+        "artist": "Liz Danforth",
+        "number": "25",
+        "layout": "normal",
+        "multiverseid": 270467,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270467&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "5ED",
+            "6ED",
+            "BTD",
+            "FEM",
+            "ME2",
+            "PD3",
+            "PTC"
+        ],
+        "originalText": "Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.",
+        "originalType": "Land",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 11
+    },
+    {
+        "name": "Entomb",
+        "manaCost": "{B}",
+        "cmc": 1,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Instant",
+        "supertypes": [],
+        "types": [
+            "Instant"
+        ],
+        "subtypes": [],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Search your library for a card and put that card into your graveyard. Then shuffle your library.",
+        "flavor": "A grave is the safest place to store ill-gotten treasures.",
+        "artist": "Ron Spears",
+        "number": "14",
+        "layout": "normal",
+        "multiverseid": 270456,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270456&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "EMA",
+            "G11",
+            "MP2",
+            "ODY",
+            "PD3",
+            "PRM",
+            "UMA",
+            "WC03"
+        ],
+        "originalText": "Search your library for a card and put that card into your graveyard. Then shuffle your library.",
+        "originalType": "Instant",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Banned"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 12
+    },
+    {
+        "name": "Exhume",
+        "manaCost": "{1}{B}",
+        "cmc": 2,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Each player puts a creature card from their graveyard onto the battlefield.",
+        "flavor": "\"Death—an outmoded concept. We sleep, and we change.\"\n—Sitrik, birth priest",
+        "artist": "Carl Critchlow",
+        "number": "17",
+        "layout": "normal",
+        "multiverseid": 270462,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270462&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "BRB",
+            "JMP",
+            "PD3",
+            "TD2",
+            "USG"
+        ],
+        "originalText": "Each player puts a creature card from his or her graveyard onto the battlefield.",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 13
+    },
+    {
+        "name": "Faceless Butcher",
+        "manaCost": "{2}{B}{B}",
+        "cmc": 4,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Creature — Nightmare Horror",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Nightmare",
+            "Horror"
+        ],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.\nWhen Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+        "artist": "Daren Bader",
+        "number": "3",
+        "power": "2",
+        "toughness": "3",
+        "layout": "normal",
+        "multiverseid": 270458,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270458&type=card",
+        "rulings": [
+            {
+                "date": "2006-09-25",
+                "text": "Three Faceless Butchers cast in succession with no other creatures on the battlefield will result in an infinite loop and the game will be a draw, unless a player somehow interrupts the loop."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "PD3",
+            "TOR",
+            "TSB"
+        ],
+        "originalText": "When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.\nWhen Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+        "originalType": "Creature — Nightmare Horror",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 14
+    },
+    {
+        "name": "Hidden Horror",
+        "manaCost": "{1}{B}{B}",
+        "cmc": 3,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Creature — Horror",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Horror"
+        ],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.",
+        "flavor": "If the presence of evil were obvious, it wouldn't be nearly as dangerous.",
+        "artist": "Brom",
+        "number": "2",
+        "power": "4",
+        "toughness": "4",
+        "layout": "normal",
+        "multiverseid": 270464,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270464&type=card",
+        "rulings": [
+            {
+                "date": "2008-04-01",
+                "text": "When the ability resolves, you choose whether to sacrifice the creature or perform the other action. If you can’t perform the other action, then you must sacrifice the creature."
+            },
+            {
+                "date": "2008-04-01",
+                "text": "If the creature is no longer on the battlefield when the ability resolves, you may still perform the action if you want."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "10E",
+            "6ED",
+            "P02",
+            "PD3",
+            "PS11",
+            "WTH"
+        ],
+        "originalText": "When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.",
+        "originalType": "Creature — Horror",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 15
+    },
+    {
+        "name": "Inkwell Leviathan",
+        "manaCost": "{7}{U}{U}",
+        "cmc": 9,
+        "colors": [
+            "Blue"
+        ],
+        "colorIdentity": [
+            "U"
+        ],
+        "type": "Artifact Creature — Leviathan",
+        "supertypes": [],
+        "types": [
+            "Artifact",
+            "Creature"
+        ],
+        "subtypes": [
+            "Leviathan"
+        ],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Trample\nIslandwalk (This creature can't be blocked as long as defending player controls an Island.)\nShroud (This creature can't be the target of spells or abilities.)",
+        "flavor": "\"Into its maw went the seventh sea, never to be seen again while the world remains.\"\n—Esper fable",
+        "artist": "Anthony Francisco",
+        "number": "10",
+        "power": "7",
+        "toughness": "11",
+        "layout": "normal",
+        "multiverseid": 270447,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270447&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "C18",
+            "CON",
+            "DDO",
+            "EMA",
+            "PD3"
+        ],
+        "originalText": "Islandwalk, trample, shroud",
+        "originalType": "Artifact Creature — Leviathan",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 16
+    },
+    {
+        "name": "Last Rites",
+        "manaCost": "{2}{B}",
+        "cmc": 3,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.",
+        "artist": "Bradley Williams",
+        "number": "21",
+        "layout": "normal",
+        "multiverseid": 270457,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270457&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "ODY",
+            "PD3",
+            "WC03"
+        ],
+        "originalText": "Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 17
+    },
+    {
+        "name": "Polluted Mire",
+        "cmc": 0,
+        "colors": [],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Land",
+        "supertypes": [],
+        "types": [
+            "Land"
+        ],
+        "subtypes": [],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "artist": "Stephen Daniele",
+        "number": "26",
+        "layout": "normal",
+        "multiverseid": 270468,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270468&type=card",
+        "rulings": [
+            {
+                "date": "2008-10-01",
+                "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "ATH",
+            "BRB",
+            "BTD",
+            "C14",
+            "C15",
+            "CMA",
+            "DDD",
+            "GVL",
+            "PD3",
+            "USG"
+        ],
+        "originalText": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+        "originalType": "Land",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 18
+    },
+    {
+        "name": "Putrid Imp",
+        "manaCost": "{B}",
+        "cmc": 1,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Creature — Zombie Imp",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Zombie",
+            "Imp"
+        ],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Discard a card: Putrid Imp gains flying until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.",
+        "artist": "Wayne England",
+        "number": "1",
+        "power": "1",
+        "toughness": "1",
+        "layout": "normal",
+        "multiverseid": 270459,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270459&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "PD3",
+            "TOR",
+            "VMA"
+        ],
+        "originalText": "Discard a card: Putrid Imp gains flying until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.",
+        "originalType": "Creature — Zombie Imp",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 19
+    },
+    {
+        "name": "Reanimate",
+        "manaCost": "{B}",
+        "cmc": 1,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.",
+        "flavor": "\"You will learn to earn death.\"\n—Volrath",
+        "artist": "Robert Bliss",
+        "number": "15",
+        "layout": "normal",
+        "multiverseid": 270452,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270452&type=card",
+        "rulings": [
+            {
+                "date": "2018-12-07",
+                "text": "If a card in a player’s graveyard has {X} in its mana cost, X is considered to be 0."
+            },
+            {
+                "date": "2018-12-07",
+                "text": "The amount of life you lose is determined by the converted mana cost of the card in your graveyard, not the creature once it’s on the battlefield."
+            },
+            {
+                "date": "2018-12-07",
+                "text": "You lose life after the creature is already on the battlefield. Any abilities it has that interact with loss of life, such as that of Platinum Emperion, apply to that loss of life."
+            },
+            {
+                "date": "2018-12-07",
+                "text": "If any abilities trigger on the creature entering the battlefield, those abilities resolve after you lose life. If losing life results in you losing the game, those abilities won’t resolve."
+            },
+            {
+                "date": "2018-12-07",
+                "text": "In a multiplayer game, if a player leaves the game, all cards that player owns leave as well. If you leave the game, the creature you control from Reanimate is exiled."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "ARC",
+            "BRB",
+            "F04",
+            "JMP",
+            "PD3",
+            "PRM",
+            "PUMA",
+            "TMP",
+            "TPR",
+            "UMA",
+            "VMA"
+        ],
+        "originalText": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 20
+    },
+    {
+        "name": "Sickening Dreams",
+        "manaCost": "{1}{B}",
+        "cmc": 2,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Sorcery",
+        "supertypes": [],
+        "types": [
+            "Sorcery"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "As an additional cost to cast this spell, discard X cards.\nSickening Dreams deals X damage to each creature and each player.",
+        "flavor": "The Patriarch dreams of vile plague.",
+        "artist": "Scott M. Fischer",
+        "number": "18",
+        "layout": "normal",
+        "multiverseid": 270460,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270460&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "PD3",
+            "TOR",
+            "WC03"
+        ],
+        "originalText": "As an additional cost to cast Sickening Dreams, discard X cards.\nSickening Dreams deals X damage to each creature and each player.",
+        "originalType": "Sorcery",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 21
+    },
+    {
+        "name": "Sphinx of the Steel Wind",
+        "manaCost": "{5}{W}{U}{B}",
+        "cmc": 8,
+        "colors": [
+            "Black",
+            "Blue",
+            "White"
+        ],
+        "colorIdentity": [
+            "B",
+            "U",
+            "W"
+        ],
+        "type": "Artifact Creature — Sphinx",
+        "supertypes": [],
+        "types": [
+            "Artifact",
+            "Creature"
+        ],
+        "subtypes": [
+            "Sphinx"
+        ],
+        "rarity": "Mythic",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Flying, first strike, vigilance, lifelink, protection from red and from green",
+        "flavor": "No one has properly answered her favorite riddle: \"Why should I spare your life?\"",
+        "artist": "Kev Walker",
+        "number": "9",
+        "power": "6",
+        "toughness": "6",
+        "layout": "normal",
+        "multiverseid": 270446,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270446&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "ARB",
+            "C13",
+            "EMA",
+            "PD3"
+        ],
+        "originalText": "Flying, first strike, vigilance, lifelink, protection from red and from green",
+        "originalType": "Artifact Creature — Sphinx",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 22
+    },
+    {
+        "name": "Terastodon",
+        "manaCost": "{6}{G}{G}",
+        "cmc": 8,
+        "colors": [
+            "Green"
+        ],
+        "colorIdentity": [
+            "G"
+        ],
+        "type": "Creature — Elephant",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Elephant"
+        ],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.",
+        "artist": "Lars Grant-West",
+        "number": "7",
+        "power": "9",
+        "toughness": "9",
+        "layout": "normal",
+        "multiverseid": 270451,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270451&type=card",
+        "rulings": [
+            {
+                "date": "2010-03-01",
+                "text": "The targeted permanents may be controlled by different players."
+            },
+            {
+                "date": "2013-07-01",
+                "text": "If a targeted permanent has indestructible or regenerates, its controller won’t get an Elephant token for it. Similarly, if the targeted permanent is destroyed but a replacement effect moves it to a different zone instead of its owner’s graveyard, its controller won’t get an Elephant token for it."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "2XM",
+            "C14",
+            "C15",
+            "CMA",
+            "CNS",
+            "PD3",
+            "PRES",
+            "WWK"
+        ],
+        "originalText": "When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.",
+        "originalType": "Creature — Elephant",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 23
+    },
+    {
+        "name": "Twisted Abomination",
+        "manaCost": "{5}{B}",
+        "cmc": 6,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Creature — Zombie Mutant",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Zombie",
+            "Mutant"
+        ],
+        "rarity": "Common",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)",
+        "artist": "Daren Bader",
+        "number": "4",
+        "power": "5",
+        "toughness": "3",
+        "layout": "normal",
+        "multiverseid": 270453,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270453&type=card",
+        "rulings": [
+            {
+                "date": "2016-06-08",
+                "text": "Unlike the normal cycling ability, Swampcycling doesn’t allow you to draw a card. Instead, it lets you search your library for a Swamp card. After you find a Swamp card in your library, you reveal it, put it into your hand, then shuffle your library."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "Swampcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Swampcycling this card. Any ability that stops a cycling ability from being activated also stops Swampcycling from being activated."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "Swampcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Swampcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+            },
+            {
+                "date": "2016-06-08",
+                "text": "You can choose to find any card with the Swamp land type, including nonbasic lands. You can also choose not to find a card, even if there is a Swamp card in your library."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "A25",
+            "ARC",
+            "CNS",
+            "DDD",
+            "EMA",
+            "GVL",
+            "PD3",
+            "SCG",
+            "TD0",
+            "TSB"
+        ],
+        "originalText": "{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)",
+        "originalType": "Creature — Zombie Mutant",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pauper",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 24
+    },
+    {
+        "name": "Verdant Force",
+        "manaCost": "{5}{G}{G}{G}",
+        "cmc": 8,
+        "colors": [
+            "Green"
+        ],
+        "colorIdentity": [
+            "G"
+        ],
+        "type": "Creature — Elemental",
+        "supertypes": [],
+        "types": [
+            "Creature"
+        ],
+        "subtypes": [
+            "Elemental"
+        ],
+        "rarity": "Rare",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "At the beginning of each upkeep, create a 1/1 green Saproling creature token.",
+        "flavor": "Left to itself, nature overflows any container, overthrows any restriction, and overreaches any boundary.",
+        "artist": "DiTerlizzi",
+        "number": "8",
+        "power": "7",
+        "toughness": "7",
+        "layout": "normal",
+        "multiverseid": 270450,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270450&type=card",
+        "rulings": [
+            {
+                "date": "2006-05-01",
+                "text": "In Two-Headed Giant, triggers only once per upkeep, not once for each player."
+            },
+            {
+                "date": "2018-04-27",
+                "text": "Verdant Force’s ability triggers at the beginning of each upkeep, not just each of your upkeeps."
+            }
+        ],
+        "foreignNames": [],
+        "printings": [
+            "10E",
+            "9ED",
+            "C15",
+            "CMA",
+            "DOM",
+            "DPA",
+            "HOP",
+            "PD3",
+            "PDOM",
+            "PS11",
+            "TMP",
+            "TPR",
+            "WC98"
+        ],
+        "originalText": "At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.",
+        "originalType": "Creature — Elemental",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Historic",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Pioneer",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 25
+    },
+    {
+        "name": "Zombie Infestation",
+        "manaCost": "{1}{B}",
+        "cmc": 2,
+        "colors": [
+            "Black"
+        ],
+        "colorIdentity": [
+            "B"
+        ],
+        "type": "Enchantment",
+        "supertypes": [],
+        "types": [
+            "Enchantment"
+        ],
+        "subtypes": [],
+        "rarity": "Uncommon",
+        "set": "PD3",
+        "setName": "Premium Deck Series: Graveborn",
+        "text": "Discard two cards: Create a 2/2 black Zombie creature token.",
+        "flavor": "The nomads' funeral pyres are more practical than ceremonial.",
+        "artist": "Thomas M. Baxa",
+        "number": "19",
+        "layout": "normal",
+        "multiverseid": 270454,
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270454&type=card",
+        "rulings": [],
+        "foreignNames": [],
+        "printings": [
+            "ARC",
+            "C19",
+            "JMP",
+            "M12",
+            "ODY",
+            "PD3"
+        ],
+        "originalText": "Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.",
+        "originalType": "Enchantment",
+        "legalities": [
+            {
+                "format": "Commander",
+                "legality": "Legal"
+            },
+            {
+                "format": "Duel",
+                "legality": "Legal"
+            },
+            {
+                "format": "Historic",
+                "legality": "Legal"
+            },
+            {
+                "format": "Legacy",
+                "legality": "Legal"
+            },
+            {
+                "format": "Modern",
+                "legality": "Legal"
+            },
+            {
+                "format": "Penny",
+                "legality": "Legal"
+            },
+            {
+                "format": "Vintage",
+                "legality": "Legal"
+            }
+        ],
+        "id": 26
+    }
+]
