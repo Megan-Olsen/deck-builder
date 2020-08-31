@@ -3,7 +3,7 @@ import Card from './Card'
 
 const Cards = (props) => {
 return <div className="cards">{props.cards.map(element => {
-    return <Card addToDeck={props.addToDeck} key={element.id} data={element} />
+    return <Card addToDeck={props} key={element.id} data={element} />
 })}
 </div>
 }

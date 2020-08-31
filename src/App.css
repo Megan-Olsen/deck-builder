@@ -1,26 +1,39 @@
-@import './reset.css';
+/* *{
+  
+} */
+
 
 button {
-  cursor: pointer;
+  cursor: grab;
 }
 
 .header {
   padding: 10px;
-  width: 100vw;
+  width: 99vw;
   height: 8vh;
-  background-color: #041e42;
-  color: #ffc220;
+  background-image: linear-gradient(to right, white, blue, red, green, black) ;
+  color: Black;
   display: flex;
+  justify-content: flex-start;
   align-items: center;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: bold;
 }
 
 .header > h1 {
   font-size: 2rem;
+  margin-left: 2vw;
+}
+.header > h2 {
+  font-size: 1.5rem;
+  margin-left: 25vw;
+  justify-content: center;
 }
 .display {
   display: flex;
   width: 100vw;
   height: 92vh;
+  font-family: 'Kaushan Script', cursive;
 }
 
 .cards {
@@ -36,6 +49,7 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 .card > p {
