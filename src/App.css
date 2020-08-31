@@ -79,11 +79,11 @@ button {
 
 .deck {
   width: 100%;
-  height: 84%;
+  height: 82%;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   padding: 10px;
 }
 
@@ -94,26 +94,33 @@ button {
   margin-bottom: 15px;
 }
 
-.deck-item {
+.deck-card {
   display: flex;
   width: 30%;
   margin-bottom: 15px;
+  margin-left: 60px;
 }
 
-.deck-item > div {
+.deck-card > div {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  flex-direction: column;
   padding: 10px;
 }
 
-.deck-item p {
+.deck-card p {
   font-size: 1.2rem;
 }
 
 .deck-card img {
   height: 180px;
+  margin-top: 5px;
 }
+
+.trashcan {
+  max-width:12px;
+    max-height: 12px;
+}
+
 
 .total {
   position: absolute;
