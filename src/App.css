@@ -76,13 +76,13 @@ button {
 
 .deck-container {
   width: 30%;
-  background-color: lightslategrey;
+  background-color: rgba(66, 153, 240, 0.829);
   position: relative;
 }
 
 .deck {
   width: 100%;
-  height: 90%;
+  height: 84%;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
@@ -91,22 +91,21 @@ button {
 }
 
 .deck > h2 {
-  align-self: flex-start;
-  font-size: 3rem;
-  text-decoration: underline;
-  color: #ffc220;
+  align-self: center;
+  font-size: 2rem;
+  color: black;
   margin-bottom: 15px;
 }
 
 .deck-item {
   display: flex;
-  width: 80%;
+  width: 30%;
   margin-bottom: 15px;
 }
 
 .deck-item > div {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-around;
   padding: 10px;
 }
@@ -115,20 +114,20 @@ button {
   font-size: 1.2rem;
 }
 
-.deck-item img {
-  height: 100px;
+.deck-card img {
+  height: 180px;
 }
 
 .total {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 94%;
   height: 10%;
-  border: 3px solid #ffc220;
+  border: 3px dotted maroon;
   padding: 10px;
   font-size: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: lightslategray;
+  background-color: rgba(66, 153, 240, 0.829);
 }
