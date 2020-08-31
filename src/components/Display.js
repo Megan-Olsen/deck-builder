@@ -35,17 +35,39 @@ class Display extends Component {
         })
     }
 
-    changeQuantity(id, quantity) {}
+    changeQuantity(deckId, action) {
+        axios.put(`/api/deck/${deckId}?action=${action}`).then((res) => {
+            this.setState({
+                deck: res.data,
+            })
+        })
+    }
     
-    removeFromDeck(id) {}
+    removeFromDeck(deckId) {
+        axios.delete(`/api/deck/${deckId}`).then((res) => {
+            this.setState({
+                deck: res.data,
+            })
+        })
+    }
 
-    delete() {}
+    delete() {
+        axios.delete('/api/deck').then((res) => {
+            this.setState({
+                deck: res.data,
+            })
+        })
+    }
 
     render() {
         return(
             <div className="display">
                 <Cards addToDeck={this.addToDeck} cards={this.state.cards} />
-                <Deck deck={this.state.deck} />
+                <Deck 
+                removeFromDeck={this.removeFromDeck} 
+                changeQuantity={this.changeQuantity} 
+                delete={this.delete} 
+                deck={this.state.deck} />
             </div>
         )
     }

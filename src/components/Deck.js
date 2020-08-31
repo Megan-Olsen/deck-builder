@@ -12,7 +12,7 @@ const Deck = (props) => {
             </div>
             <div className="total">
                 Number of Cards in Deck: {props.deck.total}
-                <button>Delete Deck</button>
+                <button onClick={props.delete}>Delete Deck</button>
             </div>
         </div>
     )
