@@ -7,7 +7,10 @@ const Deck = (props) => {
             <div className="deck">
                 <h2>Your Awesome Deck!</h2>
                 {props.deck.items.map((element) => {
-                    return <DeckCard key={element.deckId} data={element}/>
+                    return <DeckCard 
+                    changeQuantity={props.changeQuantity} removeFromDeck={props.removeFromDeck} 
+                    key={element.deckId} 
+                    data={element}/>
                 })}
             </div>
             <div className="total">
