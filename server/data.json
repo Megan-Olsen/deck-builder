@@ -1876,5 +1876,258 @@
             }
         ],
         "id": 26
-    }
+    },
+    {
+        "name": "Quest for the Goblin Lord",
+        "manaCost": "{R}",
+        "cmc": 1,
+        "colors":["Red"],
+        "colorIdentity":["R"],
+        "type": "Enchantment",
+        "supertypes":[],
+        "types":["Enchantment"],
+        "subtypes":[],
+        "rarity": "Uncommon",
+        "set": "WWK",
+        "setName": "Worldwake",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=198392&type=card",
+        "rulings":[],
+        "printings":["WWK"],
+        "legalities":[{"format": "Commander", "legality": "Legal" }],
+        "id": 27
+    },
+    {
+        "name": "Quest for Ula's Temple",
+        "manaCost": "{U}",
+        "cmc": 1,
+        "colors":[
+        "Blue"
+        ],
+        "colorIdentity":[
+        "U"
+        ],
+        "type": "Enchantment",
+        "supertypes":[
+        ],
+        "types":[
+        "Enchantment"
+        ],
+        "subtypes":[
+        ],
+        "rarity": "Rare",
+        "set": "WWK",
+        "setName": "Worldwake",
+        "text": "At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=198401&type=card",
+        "rulings":[
+        {"date": "2010-03-01", "text": "When the first ability resolves, you may look at the top card of your library. If you don’t, nothing happens. If you look at it and it’s not a creature card, it simply stays hidden. If you look at it and it is a creature card, you may reveal it and put a quest counter on Quest for Ula’s Temple, or you may choose to leave it hidden. In all cases, the card remains on top of your library."},
+        {"date": "2010-03-01", "text": "If an ability (from Future Sight or Oracle of Mul Daya, for example) causes you to play with the top card of your library revealed, you may still put a quest counter on Quest for Ula’s Temple when the first ability resolves if the top card of your library is a creature card."},
+        {"date": "2010-03-01", "text": "Although the first ability triggers only on your turn, the second ability may trigger each turn."}
+        ],
+        "printings":[
+        "WWK"
+        ],
+        "originalText": "At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.",
+        "originalType": "Enchantment",
+        "legalities":[
+        {"format": "Commander", "legality": "Legal"},
+        {"format": "Duel", "legality": "Legal"},
+        {"format": "Legacy", "legality": "Legal"},
+        {"format": "Modern", "legality": "Legal"},
+        {"format": "Penny", "legality": "Legal"},
+        {"format": "Vintage", "legality": "Legal"}
+        ],
+        "id": "28"
+    },
+    {
+        "name": "Permafrost Trap",
+        "manaCost": "{2}{U}{U}",
+        "cmc": 4,
+        "colors":[
+        "Blue"
+        ],
+        "colorIdentity":[
+        "U"
+        ],
+        "type": "Instant — Trap",
+        "supertypes":[
+        ],
+        "types":[
+        "Instant"
+        ],
+        "subtypes":[
+        "Trap"
+        ],
+        "rarity": "Uncommon",
+        "set": "WWK",
+        "setName": "Worldwake",
+        "text": "If an opponent had a green creature enter the battlefield under their control this turn, you may pay {U} rather than pay this spell's mana cost.Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+        "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194703&type=card",
+        "id": "29"
+        },
+        {
+            "name": "Admonition Angel",
+            "manaCost": "{3}{W}{W}{W}",
+            "cmc": 6,
+            "colors":[
+            "White"
+            ],
+            "colorIdentity":[
+            "W"
+            ],
+            "type": "Creature — Angel",
+            "supertypes":[
+            ],
+            "types":[
+            "Creature"
+            ],
+            "subtypes":[
+            "Angel"
+            ],
+            "rarity": "Mythic",
+            "set": "WWK",
+            "setName": "Worldwake",
+            "text": "FlyingLandfall — Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197160&type=card",
+            "id": "30"
+        },
+        {
+            "name": "Chandra, Flamecaller",
+            "names":[],
+            "manaCost": "{4}{R}{R}",
+            "cmc": 6,
+            "colors":["Red"],
+            "colorIdentity":["R"],
+            "type": "Legendary Planeswalker — Chandra",
+            "supertypes":["Legendary"],
+            "types":["Planeswalker"],
+            "subtypes":["Chandra"],
+            "rarity": "Mythic",
+            "set": "C20",
+            "setName": "Commander 2020",
+            "text": "[+1]: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.[0]: Discard all the cards in your hand, then draw that many cards plus one.[−X]: Chandra, Flamecaller deals X damage to each creature.",
+           
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=482773&type=card",
+            "loyalty": "4",
+            "legalities":[{"format": "Commander", "legality": "Legal" }],
+            "id": "31"
+        },
+        {
+            "name": "Nissa, Steward of Elements",
+            "manaCost": "{X}{G}{U}",
+            "cmc": 2,
+            "colors":[
+            "Green",
+            "Blue"
+            ],
+            "colorIdentity":["G", "U"],
+            "type": "Legendary Planeswalker — Nissa",
+            "supertypes":[
+            "Legendary"
+            ],
+            "types":[
+            "Planeswalker"
+            ],
+            "subtypes":[
+            "Nissa"
+            ],
+            "rarity": "Mythic",
+            "set": "AKH",
+            "setName": "Amonkhet",
+            "text": "[+2]: Scry 2.[0]: Look at the top card of your library. If it's a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.[−6]: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They're still lands.",
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=426906&type=card",
+            "loyalty": "X",
+            "legalities":[{"format": "Commander", "legality": "Legal" }],
+            "id": "32"
+        },
+        {
+            "name": "Liliana, Death Wielder",
+            "names":[],
+            "manaCost": "{5}{B}{B}",
+            "cmc": 7,
+            "colors":[
+            "Black"
+            ],
+            "colorIdentity":[
+            "B"
+            ],
+            "type": "Legendary Planeswalker — Liliana",
+            "supertypes":[
+            "Legendary"
+            ],
+            "types":[
+            "Planeswalker"
+            ],
+            "subtypes":[
+            "Liliana"
+            ],
+            "rarity": "Mythic",
+            "set": "AKH",
+            "setName": "Amonkhet",
+            "text": "[+2]: Put a -1/-1 counter on up to one target creature.[−3]: Destroy target creature with a -1/-1 counter on it.[−10]: Return all creature cards from your graveyard to the battlefield.",
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429667&type=card",
+            "loyalty": "5",
+            "legalities":[{"format": "Commander", "legality": "Legal" }],
+            "id": "33"
+        },
+        {
+            "name": "Gideon of the Trials",
+            "names":[],
+            "manaCost": "{1}{W}{W}",
+            "cmc": 3,
+            "colors":[
+            "White"
+            ],
+            "colorIdentity":[
+            "W"
+            ],
+            "type": "Legendary Planeswalker — Gideon",
+            "supertypes":[
+            "Legendary"
+            ],
+            "types":[
+            "Planeswalker"
+            ],
+            "subtypes":[
+            "Gideon"
+            ],
+            "rarity": "Mythic",
+            "set": "AKH",
+            "setName": "Amonkhet",
+            "text": "[+1]: Until your next turn, prevent all damage target permanent would deal.[0]: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.[0]: You get an emblem with As long as you control a Gideon planeswalker, you can't lose the game and your opponents can't win the game.",
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=426716&type=card",
+            "loyalty": "3",
+            "legalities":[{"format": "Commander", "legality": "Legal" }],
+            "id": "34"
+        },
+        {
+            "name": "Jace, the Mind Sculptor",
+            "manaCost": "{2}{U}{U}",
+            "cmc": 4,
+            "colors":[
+            "Blue"
+            ],
+            "colorIdentity":[
+            "U"
+            ],
+            "type": "Legendary Planeswalker — Jace",
+            "supertypes":[
+            "Legendary"
+            ],
+            "types":[
+            "Planeswalker"
+            ],
+            "subtypes":[
+            "Jace"
+            ],
+            "rarity": "Mythic",
+            "set": "V13",
+            "setName": "From the Vault: Twenty",
+            "text": "[+2]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.[0]: Draw three cards, then put two cards from your hand on top of your library in any order.[−1]: Return target creature to its owner's hand.[−12]: Exile all cards from target player's library, then that player shuffles their hand into their library.",
+            "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373316&type=card",
+            "loyalty": "3",
+            "legalities":[{"format": "Commander", "legality": "Legal" }],
+            "id": "35"
+        }
+            
 ]
