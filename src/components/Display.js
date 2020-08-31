@@ -45,7 +45,7 @@ class Display extends Component {
         return(
             <div className="display">
                 <Cards addToDeck={this.addToDeck} cards={this.state.cards} />
-                <Deck />
+                <Deck deck={this.state.deck} />
             </div>
         )
     }
