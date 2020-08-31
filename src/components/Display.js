@@ -10,12 +10,29 @@ class Display extends Component {
             cards: [],
             deck: {total: 0, items: [] },
         }
-        this.addToDeck = this.addToDeck.bind(this)
-        this.changeQuantity = this.changeQuantity.bind(this)
-        this.removeFromDeck =this.removeFromDeck.bind(this)
-        this.delete = this.delete.bind(this)
+        // this.addToDeck = this.addToDeck.bind(this)
+        // this.changeQuantity = this.changeQuantity.bind(this)
+        // this.removeFromDeck =this.removeFromDeck.bind(this)
+        // this.delete = this.delete.bind(this)
     }
 
+    componentDidMount() {}
 
+    addToDeck(id, quantity) {}
+
+    changeQuantity(id, quantity) {}
+    
+    removeFromDeck(id) {}
+
+    delete() {}
+
+    render() {
+        return(
+            <div className="display">
+                <Cards />
+                <Deck />
+            </div>
+        )
+    }
 }
-export default Display// 
+export default Display 
