@@ -56,9 +56,28 @@ module.exports = {
             }
         }
         updateDeckTotal()
+
+        res.status(200).send(deck)
+    },
+    removeFromDeck : (req, res) => {
+        const { deck_id } = req.params
+
+        const index = deck.items.findIndex(element => element.deckId === +deck_id)
+
+        if(index === -1){
+            return res.status(404).send('Card not in Deck')
+        }
+
+        deck.items.splice(index, 1)
+
+        updateDeckTotal()
+
+        res.status(200).send(deck)
+    },
+    delete : (req, res) => {
+        deck.total = 0
+        deck.items = []
         
         res.status(200).send(deck)
     },
-    removeFromDeck : (req, res) => {},
-    delete : (req, res) => {}
 }
